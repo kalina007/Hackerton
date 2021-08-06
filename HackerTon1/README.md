@@ -1,5 +1,10 @@
 # Hackerton 1 레스토랑 방문자 수 예측하기
 
+[팀원]
+- [송찬용](https://github.com/thdcksdyd98)
+- [김현지](https://github.com/aacara)
+- [김우렬](https://github.com/wooryeol)
+
 [jupyter notebook 목차]
 - EDA
   - 날짜별 방문자 수 확인
@@ -15,6 +20,10 @@
 - xgboost tunning
   - 성능 개선을 위한 xgboost 튜닝
 
+[회고]   
+아... 상금이 너무 탐이 났으나, 혼자 힘으로 역부족인 것을 느꼈으며....    
+여태까지 공부한 내용을 겉핡기식으로 배우면서 세세한 코드를 작성하지 못하는 나 자신을 보면서 반성했다....   
+상금이 너무 탐난다....상금..... 약 $25,000 =========== 한화로 28,582,000
 
 ### 링크
 [Kaggle](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting)   
