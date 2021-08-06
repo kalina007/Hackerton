@@ -4,6 +4,7 @@
 - [송찬용](https://github.com/thdcksdyd98)
 - [김현지](https://github.com/aacara)
 - [김우렬](https://github.com/wooryeol)
+- 이유정
 
 [jupyter notebook 목차]
 - EDA
